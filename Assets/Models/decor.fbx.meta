@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 1820f5a3ed8e2674fbf80097c4944439
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Decor
+    100002: //RootNode
+    100004: Lieu
+    100006: Lieu__1_
+    100008: Lieu__2_
+    100010: Mur
+    100012: Mur_1
+    100014: sol
+    100016: Spawn_Left
+    100018: Spawn_Left_1
+    100020: Spawn_Left_2
+    100022: Spawn_Right
+    100024: Spawn_Right_1
+    100026: Spawn_Right_2
+    100028: cable
+    100030: Cube
+    100032: Cube.001
+    100034: duck
+    100036: Plane
+    100038: sign
+    100040: 'tissus '
+    100042: Mur_1.001
+    100044: Cube.002
+    100046: Cube.003
+    100048: Cube.004
+    100050: clock
+    100052: time
+    100054: Cube.005
+    100056: timer
+    100058: Cube.006
+    100060: Cylinder
+    100062: mur droite
+    100064: mur fond
+    100066: mur gauche
+    100068: panneau
+    100070: panneau back
+    100072: toit
+    100074: boite
+    400000: Decor
+    400002: //RootNode
+    400004: Lieu
+    400006: Lieu__1_
+    400008: Lieu__2_
+    400010: Mur
+    400012: Mur_1
+    400014: sol
+    400016: Spawn_Left
+    400018: Spawn_Left_1
+    400020: Spawn_Left_2
+    400022: Spawn_Right
+    400024: Spawn_Right_1
+    400026: Spawn_Right_2
+    400028: cable
+    400030: Cube
+    400032: Cube.001
+    400034: duck
+    400036: Plane
+    400038: sign
+    400040: 'tissus '
+    400042: Mur_1.001
+    400044: Cube.002
+    400046: Cube.003
+    400048: Cube.004
+    400050: clock
+    400052: time
+    400054: Cube.005
+    400056: timer
+    400058: Cube.006
+    400060: Cylinder
+    400062: mur droite
+    400064: mur fond
+    400066: mur gauche
+    400068: panneau
+    400070: panneau back
+    400072: toit
+    400074: boite
+    2100000: ProBuilderDefault
+    2100002: Default_Material
+    2100004: decor
+    2100006: duck.001
+    2100008: duck
+    2100010: No Name
+    2100012: transparent
+    2300000: Lieu
+    2300002: Lieu__1_
+    2300004: Lieu__2_
+    2300006: Mur
+    2300008: Mur_1
+    2300010: sol
+    2300012: cable
+    2300014: Cube
+    2300016: Cube.001
+    2300018: duck
+    2300020: Plane
+    2300022: sign
+    2300024: 'tissus '
+    2300026: Mur_1.001
+    2300028: Cube.002
+    2300030: Cube.003
+    2300032: Cube.004
+    2300034: clock
+    2300036: time
+    2300038: Cube.005
+    2300040: timer
+    2300042: Cube.006
+    2300044: Cylinder
+    2300046: mur droite
+    2300048: mur fond
+    2300050: mur gauche
+    2300052: panneau
+    2300054: panneau back
+    2300056: toit
+    2300058: boite
+    3300000: Lieu
+    3300002: Lieu__1_
+    3300004: Lieu__2_
+    3300006: Mur
+    3300008: Mur_1
+    3300010: sol
+    3300012: cable
+    3300014: Cube
+    3300016: Cube.001
+    3300018: duck
+    3300020: Plane
+    3300022: sign
+    3300024: 'tissus '
+    3300026: Mur_1.001
+    3300028: Cube.002
+    3300030: Cube.003
+    3300032: Cube.004
+    3300034: clock
+    3300036: time
+    3300038: Cube.005
+    3300040: timer
+    3300042: Cube.006
+    3300044: Cylinder
+    3300046: mur droite
+    3300048: mur fond
+    3300050: mur gauche
+    3300052: panneau
+    3300054: panneau back
+    3300056: toit
+    3300058: boite
+    4300000: Lieu
+    4300002: Mur
+    4300004: Mur_1
+    4300006: sol
+    4300008: Lieu__2_
+    4300010: Lieu__1_
+    4300012: duck
+    4300014: Plane
+    4300016: sign
+    4300018: Cube.001
+    4300020: cable
+    4300022: Cube
+    4300024: 'tissus '
+    4300026: Mur_1.001
+    4300028: Cube.002
+    4300030: Cube.003
+    4300032: Cube.004
+    4300034: clock
+    4300036: time
+    4300038: Cube.005
+    4300040: timer
+    4300042: Cylinder
+    4300044: Cube.006
+    4300046: mur gauche
+    4300048: mur droite
+    4300050: toit
+    4300052: panneau
+    4300054: panneau back
+    4300056: mur fond
+    4300058: boite
+    6400000: cable
+    6400002: Cube
+    6400004: Cube.001
+    6400006: duck
+    6400008: Lieu
+    6400010: Lieu__1_
+    6400012: Lieu__2_
+    6400014: Mur_1
+    6400016: Mur_1.001
+    6400018: Plane
+    6400020: sign
+    6400022: sol
+    6400024: 'tissus '
+    6400026: Cube.002
+    6400028: Cube.003
+    6400030: Cube.004
+    6400032: clock
+    6400034: time
+    6400036: Cube.005
+    6400038: timer
+    6400040: Cube.006
+    6400042: Cylinder
+    6400044: mur droite
+    6400046: mur fond
+    6400048: mur gauche
+    6400050: panneau
+    6400052: panneau back
+    6400054: toit
+    6400056: boite
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: decor
+    second: {fileID: 2100000, guid: a063626f976e73b46b9eb0b0ac513a1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparent
+    second: {fileID: 2100000, guid: 1799d011dc2e61d429731a5cb509b186, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
