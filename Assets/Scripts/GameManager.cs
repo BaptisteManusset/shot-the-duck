@@ -45,6 +45,8 @@ public class GameManager : MonoBehaviour
     isFinish = false;
     isStart = false;
     isHightscore = false;
+
+
     #endregion
 
 
